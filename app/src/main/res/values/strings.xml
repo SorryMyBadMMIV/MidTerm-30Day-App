@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">30 Days of Gourmet</string>
+    <string name="day_label">DAY %1$d</string>
+    <string name="try_label">TRY: %1$s</string>
+    <string name="expand">Show details</string>
+    <string name="collapse">Hide details</string>
+    <string name="opened">Opened</string>
+    <string name="days_opened">Days opened</string>
+    <string name="opened_count">%1$d/%2$d</string>
+
+    <string name="r01_name">Jay Fai</string>
+    <string name="r01_area">Thai street food · Phra Nakhon</string>
+    <string name="r01_dish">Crab omelette</string>
+    <string name="r01_description">Auntie Fai cooks over charcoal in ski goggles, and has done for decades. The queue is long and the omelette is expensive, but no other street stall in the world holds a Michelin star.</string>
+
+    <string name="r02_name">Thipsamai</string>
+    <string name="r02_area">Pad thai · Phra Nakhon</string>
+    <string name="r02_dish">Pad thai wrapped in egg</string>
+    <string name="r02_description">Frying pad thai over charcoal since 1966, and still drawing a queue down Maha Chai Road every night. Order it wrapped in a thin egg blanket, with orange juice on the side.</string>
+
+    <string name="r03_name">Krua Apsorn</string>
+    <string name="r03_area">Thai home cooking · Phra Nakhon</string>
+    <string name="r03_dish">Crab with yellow chilli</string>
+    <string name="r03_description">A civil-servant canteen favourite that grew into a city institution. The stir-fried crab with yellow chilli is the dish people come back for.</string>
+
+    <string name="r04_name">Err Urban Rustic Thai</string>
+    <string name="r04_area">Thai drinking food · Phra Nakhon</string>
+    <string name="r04_dish">Grilled pork jowl</string>
+    <string name="r04_description">Thai drinking food tucked behind Wat Pho, in a courtyard hung with old enamel signs. Everything is grilled, fermented or pickled, and built to be shared.</string>
+
+    <string name="r05_name">Nusara</string>
+    <string name="r05_area">Modern Thai · Phra Nakhon</string>
+    <string name="r05_dish">Tasting menu</string>
+    <string name="r05_description">Chef Thitid Tassanakajohn cooks in memory of his grandmother, on a rooftop above the Old Town. Book weeks ahead, and take the tasting menu.</string>
+
+    <string name="r06_name">Rongros</string>
+    <string name="r06_area">Riverside Thai · Phra Nakhon</string>
+    <string name="r06_dish">Crab curry</string>
+    <string name="r06_description">A restored shophouse on the river with Wat Arun lit up across the water. Come for the view, stay for the crab curry.</string>
+
+    <string name="r07_name">Nai Ek Roll Noodles</string>
+    <string name="r07_area">Teochew noodles · Yaowarat</string>
+    <string name="r07_dish">Kuay jab nam sai</string>
+    <string name="r07_description">A Yaowarat fixture serving peppery kuay jab in a clear, punishing broth. The rolled rice noodles are the whole point.</string>
+
+    <string name="r08_name">Hua Seng Hong</string>
+    <string name="r08_area">Thai-Chinese · Yaowarat</string>
+    <string name="r08_dish">Braised goose</string>
+    <string name="r08_description">Chinatown comfort food since 1959. Braised goose over rice, dim sum steamers, and noodles served long past midnight.</string>
+
+    <string name="r09_name">T&amp;K Seafood</string>
+    <string name="r09_area">Street seafood · Yaowarat</string>
+    <string name="r09_dish">Charcoal-grilled prawns</string>
+    <string name="r09_description">Green-shirted staff, plastic stools, and prawns grilling on the pavement at Soi Texas. Loud, cheap, and exactly what Yaowarat is for.</string>
+
+    <string name="r10_name">Potong</string>
+    <string name="r10_area">Thai-Chinese fine dining · Yaowarat</string>
+    <string name="r10_dish">Five-element tasting menu</string>
+    <string name="r10_description">Chef Pam cooks Thai-Chinese memory inside her family\'s 120-year-old shophouse, once a Chinese pharmacy. The menu is built around five elements.</string>
+
+    <string name="r11_name">80/20</string>
+    <string name="r11_area">Modern Thai · Charoen Krung</string>
+    <string name="r11_dish">Local-ingredient tasting menu</string>
+    <string name="r11_description">Named for the ratio of Thai ingredients to everything else. A small kitchen doing serious things with produce most restaurants overlook.</string>
+
+    <string name="r12_name">Charmgang</string>
+    <string name="r12_area">Thai curry bar · Charoen Krung</string>
+    <string name="r12_dish">Southern curries</string>
+    <string name="r12_description">A curry bar on Charoen Krung run by three friends who met in fine-dining kitchens. Order the southern curries and expect real heat.</string>
+
+    <string name="r13_name">Prachak Pet Yang</string>
+    <string name="r13_area">Roast duck · Bang Rak</string>
+    <string name="r13_dish">Roast duck over rice</string>
+    <string name="r13_description">Roasting duck in the same Bang Rak shophouse since 1909. Order it over rice, with a bowl of broth on the side.</string>
+
+    <string name="r14_name">Le Du</string>
+    <string name="r14_area">Modern Thai · Silom</string>
+    <string name="r14_dish">River prawn</string>
+    <string name="r14_description">Modern Thai in a converted shophouse off Silom, and once ranked the best restaurant in Asia. The river prawn is the dish to order.</string>
+
+    <string name="r15_name">Sorn</string>
+    <string name="r15_area">Southern Thai fine dining · Sathorn</string>
+    <string name="r15_dish">Southern crab tasting menu</string>
+    <string name="r15_description">Southern Thai cooking taken as seriously as anywhere in the world, with ingredients driven up from Trang and Phuket. The hardest table in Bangkok to book.</string>
+
+    <string name="r16_name">Sühring</string>
+    <string name="r16_area">Modern German · Sathorn</string>
+    <string name="r16_dish">Tasting menu</string>
+    <string name="r16_description">Twin brothers cooking modern German food in a 1970s house with a garden. Not what you expect in Bangkok, and better for it.</string>
+
+    <string name="r17_name">Somtum Der</string>
+    <string name="r17_area">Isaan · Silom</string>
+    <string name="r17_dish">Som tum pu pla ra</string>
+    <string name="r17_description">Isaan cooking from Ubon Ratchathani, pounded to order in a mortar you can hear from the street. Start with som tum pu pla ra if you can take it.</string>
+
+    <string name="r18_name">Blue by Alain Ducasse</string>
+    <string name="r18_area">French · Khlong San</string>
+    <string name="r18_dish">River-view tasting menu</string>
+    <string name="r18_description">French technique on the river at Icon Siam, with Wat Arun framed in the window. The most formal meal on this list, and dress accordingly.</string>
+
+    <string name="r19_name">Go-Ang Pratunam Chicken Rice</string>
+    <string name="r19_area">Khao man gai · Pratunam</string>
+    <string name="r19_dish">Poached chicken rice</string>
+    <string name="r19_description">The pink-shirted khao man gai stand near Pratunam market. Poached chicken, rice cooked in the fat, and a ginger-chilli sauce doing the heavy lifting.</string>
+
+    <string name="r20_name">Jeh O Chula</string>
+    <string name="r20_area">Thai noodles · Pathum Wan</string>
+    <string name="r20_dish">Mama tom yum</string>
+    <string name="r20_description">Queue numbers are handed out before opening for a reason. The mama tom yum arrives as a mountain of pork, seafood and instant noodles.</string>
+
+    <string name="r21_name">Polo Fried Chicken</string>
+    <string name="r21_area">Thai fried chicken · Lumphini</string>
+    <string name="r21_dish">Gai tod with fried garlic</string>
+    <string name="r21_description">Thai fried chicken buried under a drift of crisp fried garlic, a short walk from Lumphini Park. Order sticky rice and som tum alongside.</string>
+
+    <string name="r22_name">Gaggan Anand</string>
+    <string name="r22_area">Progressive Indian · Lumphini</string>
+    <string name="r22_dish">Emoji tasting menu</string>
+    <string name="r22_description">Progressive Indian food served as a wordless emoji menu, with the chef conducting the room. Theatre and cooking in equal measure.</string>
+
+    <string name="r23_name">Paste Bangkok</string>
+    <string name="r23_area">Heritage Thai · Ratchaprasong</string>
+    <string name="r23_dish">Historic recipe tasting menu</string>
+    <string name="r23_description">Bee Satongun rebuilds recipes from old Thai cookbooks using modern technique. Precise, balanced, and unlike anything else on this list.</string>
+
+    <string name="r24_name">Rung Rueang Pork Noodle</string>
+    <string name="r24_area">Noodles · Phrom Phong</string>
+    <string name="r24_dish">Dry pork noodles</string>
+    <string name="r24_description">A Sukhumvit noodle stall so popular it split into two shops side by side. Order it dry, with everything in it.</string>
+
+    <string name="r25_name">Wattana Panich</string>
+    <string name="r25_area">Beef noodles · Ekkamai</string>
+    <string name="r25_dish">Perpetual beef broth</string>
+    <string name="r25_description">The beef broth in the vat out front has been topped up and simmered for decades, never once emptied. Order the beef noodle soup and taste what that does.</string>
+
+    <string name="r26_name">Supanniga Eating Room</string>
+    <string name="r26_area">Trat and Isaan Thai · Thong Lo</string>
+    <string name="r26_dish">Moo chamuang</string>
+    <string name="r26_description">Home cooking from Trat and Isaan, built on the owner\'s grandmother\'s recipes. The moo chamuang, pork stewed with sour chamuang leaves, is the one.</string>
+
+    <string name="r27_name">Appia</string>
+    <string name="r27_area">Roman Italian · Phrom Phong</string>
+    <string name="r27_dish">Porchetta</string>
+    <string name="r27_description">Roman cooking in a Sukhumvit side street, with a porchetta that would hold its own in Testaccio. Sunday lunch is the move.</string>
+
+    <string name="r28_name">Peppina</string>
+    <string name="r28_area">Neapolitan pizza · Thong Lo</string>
+    <string name="r28_dish">Margherita D.O.P.</string>
+    <string name="r28_description">Proper Neapolitan pizza from a wood-fired oven, certified by the Naples association. The margherita is the test, and it passes.</string>
+
+    <string name="r29_name">Sushi Masato</string>
+    <string name="r29_area">Edomae sushi · Ekkamai</string>
+    <string name="r29_dish">Omakase</string>
+    <string name="r29_description">A tiny Ekkamai counter with a long waiting list and fish flown in from Toyosu. Omakase only, and worth planning a month around.</string>
+
+    <string name="r30_name">Baan Tepa</string>
+    <string name="r30_area">Sustainable Thai · Suan Luang</string>
+    <string name="r30_dish">Zero-waste tasting menu</string>
+    <string name="r30_description">A family home turned restaurant, cooking close to zero-waste with produce from its own garden. A quiet, generous way to finish the month.</string>
+</resources>
